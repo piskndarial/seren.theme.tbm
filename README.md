@@ -1,4 +1,4 @@
-## Theme for Seren & Auramod users
+## Theme for Seren & Titan Bingie MOD users
                   SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
@@ -13,9 +13,9 @@
 
 ##### Requirements
 * Seren - 2.x or greater
-* AuraMod - Latest Repo version or higher 
+* Titan Bingie MOD - Latest Repo version or higher 
 
-**This theme Has not been tested and won't be supported on any skin besides AuraMod , use at your on risk with other skins.**
+**This theme Has not been tested and won't be supported on any skin besides Titan Bingie MOD , use at your on risk with other skins.**
 
 *The text color for this theme is controlled by Serens  Settings called "Select Text Highlight Color..." Found in Seren Settings > Interface*
 
@@ -29,7 +29,7 @@ And enter one of the following URL:
 http://bit.ly/serenmodfull
 or
 
-https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/
+https://github.com/piskndarial/seren.theme.tbm/zipball/master/
 
 ------------
 
@@ -43,5 +43,5 @@ You can also download the `.zip` file directly from the same URL, and install it
 
 
 
-*The creator of this theme is not affiliated with Seren, Arctic Zephyr 2, or Kodi.*
+*The creator of this theme is not affiliated with Seren, Titan Bingie MOD, or Kodi.*
 
